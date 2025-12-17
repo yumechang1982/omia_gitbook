@@ -72,6 +72,7 @@
   * [OMIA PLUS訂閱成功後，如何登入？](aboutomiaplus/omia-plus-ding-yue-cheng-gong-hou-ru-he-deng-ru.md)
   * [OMIA PLUS 課程清單](aboutomiaplus/omia-plus-ke-cheng-qing-dan.md)
   * [已購買 OMIA 單堂課程的學員可以使用 OMIA PLUS 服務嗎？](aboutomiaplus/yi-gou-mai-omia-dan-tang-ke-cheng-de-xue-yuan-ke-yi-shi-yong-omia-plus-fu-wu-ma.md)
+  * [若有學習問題可以向老師提問嗎？](aboutomiaplus/ruo-you-xue-xi-wen-ti-ke-yi-xiang-lao-shi-ti-wen-ma.md)
   * [OMIA PLUS 訂閱制方案的計價方式為何？](aboutomiaplus/omia-plus-ding-yue-zhi-fang-an-de-ji-jia-fang-shi-wei-he.md)
   * [在哪裡購買？如何付款？](aboutomiaplus/zai-na-li-gou-mai-ru-he-fu-kuan.md)
   * [如何取消OMIA PLUS自動續訂方案？](aboutomiaplus/ru-he-qu-xiao-omia-plus-zi-dong-xu-ding-fang-an.md)
