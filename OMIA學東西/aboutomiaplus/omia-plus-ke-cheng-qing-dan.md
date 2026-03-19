@@ -1,9 +1,5 @@
 # OMIA PLUS 課程清單
 
-
-
-
-
 備註:
 
 1. <mark style="color:red;">**本表僅供參考，OMIA PLUS 學習影片會因授權合約到期而變動，實際以架上課堂內容為準。**</mark>
@@ -20,7 +16,7 @@
 
 OMIA PLUS課程清單
 
-敬請參考[https://www.omia.com.tw/omia\_plus\_course\_list](https://www.omia.com.tw/omia_plus_course_list)
+敬請參考列表▶[https://www.omia.com.tw/omia\_plus\_course\_list](https://www.omia.com.tw/omia_plus_course_list)
 
 
 
