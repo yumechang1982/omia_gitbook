@@ -2,7 +2,7 @@
 
 備註:
 
-1. <mark style="color:red;">**本表僅供參考，OMIA PLUS 學習影片會因授權合約到期而變動，實際以架上課堂內容為準。**</mark>
+1. <mark style="color:red;background-color:red;">**本表僅供參考，OMIA PLUS 學習影片會因授權合約到期而變動，實際以架上課堂內容為準。**</mark>
 
 2.月租服務(OMIA PLUS)以微學習概念課堂為主，所標示之課堂名稱與原單課銷售之課程名略有不同。
 
