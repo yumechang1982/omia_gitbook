@@ -28,7 +28,9 @@
 
 二、OMIA PLUS官網訂閱
 
-❶敬請於OMIA PLUS官網https://www.omia.com.tw/plus →\[登入]
+❶敬請於OMIA PLUS官網[https://www.omia.com.tw/plus ](https://www.omia.com.tw/plus)
+
+→\[登入]
 
 登入您訂閱課程使用之OMIA PLUS會員帳號
 
