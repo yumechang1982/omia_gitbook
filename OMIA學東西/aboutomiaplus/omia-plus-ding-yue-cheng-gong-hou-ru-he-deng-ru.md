@@ -2,11 +2,13 @@
 
 一、中華電信網路門市申辦OMIA PLUS
 
-❶敬請於OMIA PLUS官網https://www.omia.com.tw/plus →\[登入]→點選\[中華電信手機門號登入]
+❶敬請於OMIA PLUS官網[https://www.omia.com.tw/plus ](https://www.omia.com.tw/plus)
+
+→\[登入]→點選\[中華電信手機門號登入]
 
 <figure><img src="../.gitbook/assets/登入OMIA PLUS步驟一.jpg" alt=""><figcaption></figcaption></figure>
 
-❷輸入學員訂閱OMIA PLUS服務之\[中華電信月租型門號]以及\[驗證碼]進行登入
+❷輸入學員訂閱OMIA PLUS服務之\[中華電信月租型門號]以及\[簡訊驗證碼]進行登入
 
 <figure><img src="../.gitbook/assets/登入OMIA PLUS步驟二.jpg" alt=""><figcaption></figcaption></figure>
 
