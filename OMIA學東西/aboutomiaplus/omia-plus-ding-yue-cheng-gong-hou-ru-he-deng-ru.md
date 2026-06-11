@@ -14,6 +14,8 @@
 
 ❸登入後，觀看課程
 
+所有課堂與影音[https://www.omia.com.tw/plus/all-class](https://www.omia.com.tw/plus/all-class)
+
 <figure><img src="../.gitbook/assets/OMIA PLUS_觀看課程_1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/OMIA PLUS_觀看課程_2.png" alt=""><figcaption></figcaption></figure>
@@ -33,6 +35,8 @@
 <figure><img src="../.gitbook/assets/OMIA_登入帳號_2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ❷登入後，觀看課程
+
+所有課堂與影音[https://www.omia.com.tw/plus/all-class](https://www.omia.com.tw/plus/all-class)
 
 <figure><img src="../.gitbook/assets/OMIA PLUS_觀看課程_4.png" alt=""><figcaption></figcaption></figure>
 
