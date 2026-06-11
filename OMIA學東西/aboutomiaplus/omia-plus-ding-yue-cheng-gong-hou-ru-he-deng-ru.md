@@ -8,7 +8,7 @@
 
 ❷簡訊驗證碼登入，輸入學員訂閱OMIA PLUS服務之手機門號進行登入
 
-<figure><img src="../.gitbook/assets/OMIAPLUS中華電信用戶登入_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/登入OMIA PLUS步驟二.jpg" alt=""><figcaption></figcaption></figure>
 
 ❸登入後，觀看課程
 
